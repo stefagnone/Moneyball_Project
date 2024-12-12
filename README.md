@@ -10,7 +10,6 @@ This project is based on the data-driven approach of the Oakland Athletics baseb
 ## Repository Structure
 - `Data/`: Contains `Batting.csv` and `Salaries.csv`, with player performance and salary information.
 - `Code/`: Includes `Moneyball.R` with all the R code for data cleaning, analysis, and visualization.
-- `Images/`: Any images or visualizations generated during the analysis will be stored here.
 
 ## Key Insights
 - **Data-Driven Strategy**: Emphasis on sabermetrics allows for objective player evaluation, focusing on undervalued statistics like on-base percentage and slugging percentage.
